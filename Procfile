@@ -1,0 +1,1 @@
+worker: python metiger_bot.py
