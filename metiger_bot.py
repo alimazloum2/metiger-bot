@@ -428,5 +428,4 @@ if __name__ == "__main__":
     app.add_handler(MessageHandler(filters.COMMAND, help_cmd))
     
     logger.info("Bot ready - polling started")
->>>>>>> 8bb44d2a440526cee99d7f6119203e0c019ce4e7
     app.run_polling()
