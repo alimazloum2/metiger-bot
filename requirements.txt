@@ -5,4 +5,3 @@ python-dotenv
 =======
 python-telegram-bot==21.6
 requests
->>>>>>> 8bb44d2a440526cee99d7f6119203e0c019ce4e7
